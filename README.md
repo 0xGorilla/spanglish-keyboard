@@ -15,10 +15,11 @@ Option + ?: ¿
 Option + !: ¡
 ```
 
-Wanna use it? It takes ~3 minutes to install, we just tried it out with @hexshirecat 
-2. Download `Spanglish Keyboard.bundle` and move it to `~/Library/Keyboard Layouts`
-3. Reboot (trust me, it will be worth it)
-4. Go to: Settings -> Keyboard -> Text Input -> Input Sources -> Edit
-5. Click on the + on the bottom left
-6. Add the Spanglish version under English
-7. Enjoy!
+Wanna use it? It takes ~3 minutes to install
+
+1. Download `Spanglish Keyboard.bundle` and move it to `~/Library/Keyboard Layouts`
+2. Reboot (trust me, it will be worth it)
+3. Go to: Settings -> Keyboard -> Text Input -> Input Sources -> Edit
+4. Click on the + on the bottom left
+5. Add the Spanglish version under English
+6. Enjoy!
