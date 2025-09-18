@@ -17,9 +17,11 @@ Option + !: ¡
 
 Wanna use it? It takes ~3 minutes to install
 
-1. Download `Spanglish Keyboard.bundle` and move it to `~/Library/Keyboard Layouts`
-2. Reboot (trust me, it will be worth it)
-3. Go to: Settings -> Keyboard -> Text Input -> Input Sources -> Edit
-4. Click on the + on the bottom left
-5. Add the Spanglish version under English
-6. Enjoy!
+
+1. Download this repository as a zip file directly in Github
+2. Move `Spanglish Keyboard.bundle` to `~/Library/Keyboard Layouts`
+3. Reboot (trust me, it will be worth it)
+4. Go to: Settings -> Keyboard -> Text Input -> Input Sources -> Edit
+5. Click on the + on the bottom left
+6. Add the Spanglish version under English
+7. Enjoy!
